@@ -1,0 +1,12 @@
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\bin\Debug\netcoreapp3.1\C Sharp 8.4.exe
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\bin\Debug\netcoreapp3.1\C Sharp 8.4.deps.json
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\bin\Debug\netcoreapp3.1\C Sharp 8.4.runtimeconfig.json
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\bin\Debug\netcoreapp3.1\C Sharp 8.4.runtimeconfig.dev.json
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\bin\Debug\netcoreapp3.1\C Sharp 8.4.dll
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\bin\Debug\netcoreapp3.1\C Sharp 8.4.pdb
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\obj\Debug\netcoreapp3.1\C Sharp 8.4.AssemblyInfoInputs.cache
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\obj\Debug\netcoreapp3.1\C Sharp 8.4.AssemblyInfo.cs
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\obj\Debug\netcoreapp3.1\C Sharp 8.4.csproj.CoreCompileInputs.cache
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\obj\Debug\netcoreapp3.1\C Sharp 8.4.dll
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\obj\Debug\netcoreapp3.1\C Sharp 8.4.pdb
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 8.4\C Sharp 8.4\obj\Debug\netcoreapp3.1\C Sharp 8.4.genruntimeconfig.cache
